@@ -1,7 +1,7 @@
 
 ## Getting Started
 
-To Run the project, first start the flask app fron the `/backend` folder after installing its `requirements.txt` using
+To Run the project, first start the flask app from the `/backend` folder after installing its `requirements.txt` using
 
 
 
